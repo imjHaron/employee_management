@@ -1,0 +1,32 @@
+
+label {
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.result-image {
+    margin-left: 230px;
+}
+
+td{          
+    font-weight: bold;
+    width: 130px;
+    height: 30px;       
+}
+
+h3 {             
+    font-size: 25px;
+    margin-top: 10px;       
+}
+
+table {
+    margin-top: 50px;
+    margin-left: 450px;
+    background-color: #E0FFFF;
+    font-weight: bold;
+}
+
+.custom-form {
+    margin-top: 20px;
+}
